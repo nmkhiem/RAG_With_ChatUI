@@ -7,5 +7,7 @@ RAG_With_ChatUI (Retrieval-Augmented Generation with Chat User Interface) is a p
 To run RAG_With_ChatUI on Google Colab:
 
 Open Google Colab: Visit https://colab.research.google.com and sign in with your Google account.
+
 Upload the Notebook: Click on 'File' > 'Upload notebook' > 'GitHub' tab, enter the URL of your repository, and select the notebook file you wish to run.
+
 Run the Notebook: Open the notebook in Colab and execute the cells sequentially by pressing Shift + Enter on each cell or using the "Run all" option from the Runtime menu.
